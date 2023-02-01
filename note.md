@@ -121,13 +121,15 @@ https://ionicframework.com/docs/theming/colors
 
 Badge 徽章
 https://ionicframework.com/docs/api/badge
- 
+ ![image](https://user-images.githubusercontent.com/50564769/216078178-51de7d41-19ae-491e-83e8-9003a2ed263c.png)
+
 
 
 Icon 图标 
 
 https://ionicframework.com/docs/api/icon
- 
+ ![image](https://user-images.githubusercontent.com/50564769/216078214-8653512a-d387-4656-870d-034b133c69e1.png)
+
 
 
 
