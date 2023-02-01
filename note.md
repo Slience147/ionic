@@ -1,22 +1,27 @@
 Ionic
 页面构成https://ionicframework.com/docs/layout/structure
 基本结构
+
 <ion-app>
-  <ion-header>
+    <ion-header>
     <ion-toolbar>
       <ion-title>Header</ion-title>
     </ion-toolbar>
   </ion-header>
-
-  <ion-content class="ion-padding">
-    <h1>Main Content</h1>
+  <ion-content>
+    <span>1231234</span>
+    <span>1231234</span>
+    <span>1231234</span>
+    
   </ion-content>
-
   <ion-footer>
     <ion-toolbar>
-      <ion-title>Footer</ion-title>
+      <ion-title>
+        trfgfg
+      </ion-title>
     </ion-toolbar>
   </ion-footer>
+  <!-- <ion-router-outlet></ion-router-outlet> -->
 </ion-app>
 
 栅格系统 基本为12等分，offset为偏移量，如果布局整体超过12会换行，调整大小size
